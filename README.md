@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @doubleun
 - 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning react.js and python
-- 💞️ I’m looking to collaborate on my personal web-app project
+- 🌱 I’m currently learning Java and Go Lang
+- 💞️ I’m looking to collaborate on any cool project
 - 📫 How to reach me: nitsomboon77@gmail.com
