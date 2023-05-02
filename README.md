@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Flutter (Dart) and Go Lang
 - 💞️ I’m looking to collaborate on any cool project
 - 📫 How to reach me: nitsomboon77@gmail.com
+- LinkedIn: https://www.linkedin.com/in/wachirachai-nitsomboon-b835b9210/
